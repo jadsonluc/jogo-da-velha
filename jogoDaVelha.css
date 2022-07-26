@@ -22,8 +22,8 @@ h1 {
 
 .square {
     display: inline-block;
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     border: 1px solid lightslategray;
     background-color: lightpink;
     border-radius: 5px;
@@ -36,8 +36,8 @@ h1 {
 .o::after {
     position: absolute;
     content:"\1F49C";
-    font-size: 75px;
-    line-height: 150px;
+    font-size: 40px;
+    line-height: 80px;
     top: 0px;
     bottom: 0px;
     left: 0px;
@@ -51,8 +51,8 @@ h1 {
 .x::after {
     position: absolute;
     content: "\1F337";
-    font-size: 75px;
-    line-height: 150px;
+    font-size: 40px;
+    line-height: 80px;
     top: 0px;
     bottom: 0px;
     left: 0px;
